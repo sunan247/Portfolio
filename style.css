@@ -10,7 +10,7 @@ h1{
 h2{
     font-size: 40px;
 }
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -49,3 +49,20 @@ font-weight: 700;
     background-position: right;
 }
 
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    height: 65%;
+}
+
+#full-stack{
+    border-left: 8px solid orange;
+    background-color: whitesmoke;
+}
+#baby-web{
+    border-left: 8px solid rgb(241, 56, 118);
+    background-color: whitesmoke;
+}
+footer p {
+text-align: center;
+}
